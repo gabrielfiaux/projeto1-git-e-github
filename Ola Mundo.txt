@@ -1,5 +1,18 @@
+Hello worlds:
+Java ->
 public void Main{
 	public static void main(String args[]){
-	System.out.println("Ola Mundo");
+		System.out.println("Ola Mundo");
  	}
 }
+
+Pyton ->
+print('Ola Mundo');
+
+JS ->
+console.log("Ola Mundo");
+
+PHP ->
+<?php
+echo "Ola Mundo" \n/
+?>

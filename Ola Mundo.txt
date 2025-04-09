@@ -3,4 +3,5 @@ Hello worlds Linguas:
 PT BR -> Olá Mundo
 ES LA -> Hola Mundo
 EN US -> Hello World
+FR EU -> Bonjour le monde
 

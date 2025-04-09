@@ -1,18 +1,6 @@
-Hello worlds:
-Java ->
-public void Main{
-	public static void main(String args[]){
-		System.out.println("Ola Mundo");
- 	}
-}
+Hello worlds Linguas:
 
-Pyton ->
-print('Ola Mundo');
+PT BR -> Olá Mundo
+ES LA -> Hola Mundo
+EN US -> Hello World
 
-JS ->
-console.log("Ola Mundo");
-
-PHP ->
-<?php
-echo "Ola Mundo" \n/
-?>
